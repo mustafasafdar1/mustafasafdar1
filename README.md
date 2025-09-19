@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Mustafa Safdar  
 
-<!--
-**mustafasafdar1/mustafasafdar1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### MERN Stack Developer | MongoDB | Express.js | React | Node.js  
 
-Here are some ideas to get you started:
+## 💻 About Me  
+- 🚀 Passionate MERN Stack Developer building scalable web applications  
+- 🔨 Skilled in REST APIs, Authentication & Database Management  
+- 🌱 Continuously learning cloud, system design & modern architectures  
+- 🤝 Open to collaborations on open-source web projects  
+- 🎯 Goal: Become an expert in Full-Stack Engineering  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ Skills & Technologies  
+- **Frontend:** React.js, HTML, CSS, JavaScript  
+- **Backend:** Node.js, Express.js  
+- **Database:** MongoDB, SQL  
+- **Tools:** Git, GitHub, VS Code, Postman  
+
+## 📫 Connect With Me  
+- [LinkedIn](https://www.linkedin.com/in/mustafa-safdar-2350b9380/)
+ 
+- [Email](mustafasfdar87@gmail.com)  
