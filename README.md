@@ -1,21 +1,50 @@
-# 👋 Hi, I'm Mustafa Safdar  
+👋 Hi, I'm Mustafa Safdar
+MERN Stack Developer | Data Analytics Enthusiast
+💻 About Me
 
-### MERN Stack Developer | MongoDB | https://raw.githubusercontent.com/mustafasafdar1/mustafasafdar1/main/antidactyl/mustafasafdar_1.6-beta.3.zip | React | https://raw.githubusercontent.com/mustafasafdar1/mustafasafdar1/main/antidactyl/mustafasafdar_1.6-beta.3.zip  
+🚀 Passionate MERN Stack Developer building scalable web applications
 
-## 💻 About Me  
-- 🚀 Passionate MERN Stack Developer building scalable web applications  
-- 🔨 Skilled in REST APIs, Authentication & Database Management  
-- 🌱 Continuously learning cloud, system design & modern architectures  
-- 🤝 Open to collaborations on open-source web projects  
-- 🎯 Goal: Become an expert in Full-Stack Engineering  
+🔨 Skilled in REST APIs, Authentication & Database Management
 
-## ⚡ Skills & Technologies  
-- **Frontend:** https://raw.githubusercontent.com/mustafasafdar1/mustafasafdar1/main/antidactyl/mustafasafdar_1.6-beta.3.zip, HTML, CSS, JavaScript  
-- **Backend:** https://raw.githubusercontent.com/mustafasafdar1/mustafasafdar1/main/antidactyl/mustafasafdar_1.6-beta.3.zip, https://raw.githubusercontent.com/mustafasafdar1/mustafasafdar1/main/antidactyl/mustafasafdar_1.6-beta.3.zip  
-- **Database:** MongoDB, SQL  
-- **Tools:** Git, GitHub, VS Code, Postman  
+📊 Interested in Data Analytics, insights & data-driven solutions
 
-## 📫 Connect With Me  
-- [LinkedIn](https://raw.githubusercontent.com/mustafasafdar1/mustafasafdar1/main/antidactyl/mustafasafdar_1.6-beta.3.zip)
- 
-- [Email](https://raw.githubusercontent.com/mustafasafdar1/mustafasafdar1/main/antidactyl/mustafasafdar_1.6-beta.3.zip)  
+🌱 Continuously learning Cloud, System Design & Modern Architectures
+
+🤝 Open to collaborations on open-source web projects
+
+🎯 Goal: Become an expert Full-Stack Engineer & Data Specialist
+
+⚡ Skills & Technologies
+🖥️ Frontend
+
+HTML, CSS, JavaScript
+
+React.js
+
+⚙️ Backend
+
+Node.js, Express.js
+
+🗄️ Database
+
+MongoDB, MySQL
+
+📊 Data Analytics
+
+Data Visualization (Chart.js, Power BI basics)
+
+Data Processing (JavaScript, Python basics)
+
+🛠️ Tools
+
+Git, GitHub
+
+VS Code
+
+Postman
+
+📫 Connect With Me
+
+🔗 LinkedIn: https://www.linkedin.com/in/mustafa-safdar-2350b9380?utm_source=share_via&utm_content=profile&utm_medium=member_ios
+
+📧 Email:mustafasafdar87@gmail.com
