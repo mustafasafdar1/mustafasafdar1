@@ -3,7 +3,7 @@
 <p align="center">
   🎓 University of Central Punjab<br>
   💻 MERN Stack | Data Analytics<br>
-  🔥 Building my LeetCode streak from day 1
+  🔥 Starting my LeetCode journey today!
 </p>
 
 <p align="center">
@@ -15,29 +15,29 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ff6b6b&icon_color=ff6b6b" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true&background=0d1117&stroke=ff6b6b&ring=ff6b6b&fire=ff6b6b&currStreakLabel=ff6b6b" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mustafasafdar1&show_icons=true&theme=dark&hide_border=true" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true" width="45%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ff6b6b" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&hide_border=true" width="50%" />
 </p>
 
 ---
 
-### 🔥 LeetCode Progress
+### 🔥 LeetCode Progress 
 
 <p align="center">
-  <img src="https://leetcode-badge-showcase.vercel.app/api?username=ECtweZOHul&theme=dark&animated=false" width="60%" />
+  <img src="https://leetcard.jacoblin.cool/ECtweZOHul?theme=dark&hide=ranking&hide_title=true&animation=false" width="400px" />
 </p>
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/ECtweZOHul?theme=dark&font=Karma&ext=heatmap&width=400&height=200&border=0&radius=10" width="400px" />
+  <b>📅 First day of coding!</b><br>
+  <img src="https://progress-bar.dev/0/?scale=50&title=Problems Solved&width=350&color=ff6b6b" />
 </p>
 
 <p align="center">
-  <b>Goal: 50 Problems</b><br>
-  <img src="https://progress-bar.dev/0/?scale=50&title=Solved&width=350&color=ff6b6b" />
+  <i>⭐ Every problem I solve will show up here instantly</i>
 </p>
 
 ---
