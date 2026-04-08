@@ -1,38 +1,55 @@
-# Hey 👋, I'm Mustafa Safdar
+<h1 align="center">Hey 👋, I'm Mustafa Safdar</h1>
 
-🎓 University of Central Punjab  
-💻 MERN Stack Developer | Data Analytics  
-🔥 Building my LeetCode streak  
+<p align="center">
+  🎓 University of Central Punjab <br>
+  💻 MERN Stack Developer | Data Analytics <br>
+  🔥 Building my LeetCode streak
+</p>
+
+<p align="center">
+  <i>"First, solve the problem. Then, write the code." – John Johnson</i>
+</p>
 
 ---
 
 ## 🚀 Tech Stack
 
-![Tech Stack](https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,py,tailwind,git)
+<p align="center">
+  JavaScript • React • Node.js • Express • MongoDB • Python • Tailwind • Git
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=mustafasafdar1&show_icons=true&theme=dark&hide_border=true)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=mustafasafdar1&theme=dark&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mustafasafdar1&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mustafasafdar1&theme=dark&hide_border=true" width="45%" />
+</p>
 
 ---
 
-## 🔥 LeetCode Progress
+## 🔥 LeetCode
 
-![LeetCode](https://leetcard.jacoblin.cool/ECtweZOHul?theme=dark&hide=ranking&hide_title=true)
+<p align="center">
+  <a href="https://leetcode.com/u/ECtweZOHul/" target="_blank">
+    Visit my LeetCode Profile 🚀
+  </a>
+</p>
 
 ---
 
 ## 📫 Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/YOUR_LINKEDIN/
-- Instagram: https://www.instagram.com/YOUR_INSTAGRAM/
-- Facebook: https://www.facebook.com/YOUR_FACEBOOK/
-- Email: YOUR_EMAIL@gmail.com
-- LeetCode: https://leetcode.com/u/ECtweZOHul/
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">LinkedIn</a> •
+  <a href="https://www.instagram.com/YOUR_INSTAGRAM/">Instagram</a> •
+  <a href="https://www.facebook.com/YOUR_FACEBOOK/">Facebook</a> •
+  <a href="mailto:YOUR_EMAIL@gmail.com">Email</a>
+</p>
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=mustafasafdar1&style=for-the-badge&color=ff6b6b)
+<p align="center">
+  Profile Views 👀
+</p>
