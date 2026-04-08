@@ -2,7 +2,7 @@
 
 🎓 University of Central Punjab  
 💻 MERN Stack Developer | Data Analytics  
-🔥 Building my LeetCode streak  
+
 
 ---
 
@@ -27,10 +27,10 @@
 
 ## 📫 Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/YOUR_LINKEDIN/
-- Instagram: https://www.instagram.com/YOUR_INSTAGRAM/
+- LinkedIn: https://www.linkedin.com/musatafasafdar
+- Instagram: https://www.instagram.com/itxmustafa34
 - Facebook: https://www.facebook.com/YOUR_FACEBOOK/
-- Email: YOUR_EMAIL@gmail.com
+- Email: mustafasafdar87@gmail.com
 - LeetCode: https://leetcode.com/u/ECtweZOHul/
 
 ---
