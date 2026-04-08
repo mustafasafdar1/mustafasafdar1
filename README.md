@@ -15,12 +15,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ff6b6b&icon_color=ff6b6b" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true&background=0d1117&stroke=ff6b6b&ring=ff6b6b&fire=ff6b6b&currStreakLabel=ff6b6b" width="45%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&hide_border=true" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ff6b6b" width="50%" />
 </p>
 
 ---
@@ -28,17 +28,21 @@
 ### 🔥 LeetCode Progress
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/ECtweZOHul?theme=dark&ext=heatmap&hide=ranking&hide_title=true" width="70%" />
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=ECtweZOHul&theme=dark&animated=false" width="60%" />
 </p>
 
 <p align="center">
-  <i>🎯 First goal: Solve 50 problems</i><br>
-  <img src="https://progress-bar.dev/0/?scale=50&title=Progress&width=300&color=ff6b6b" />
+  <img src="https://leetcard.jacoblin.cool/ECtweZOHul?theme=dark&font=Karma&ext=heatmap&width=400&height=200&border=0&radius=10" width="400px" />
+</p>
+
+<p align="center">
+  <b>Goal: 50 Problems</b><br>
+  <img src="https://progress-bar.dev/0/?scale=50&title=Solved&width=350&color=ff6b6b" />
 </p>
 
 ---
 
-### 🐍 Contribution Snake
+### 🐍 Contribution Graph
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/snake.svg" />
@@ -50,11 +54,10 @@
 ### 📫 Connect
 
 <p align="center">
-  <a href="https://leetcode.com/u/ECtweZOHul/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black"/></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/ECtweZOHul/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black"/></a>
+  <a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white"/></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat&color=ff6b6b" />
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=ff6b6b" />
 </p>
