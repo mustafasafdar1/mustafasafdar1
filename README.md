@@ -1,7 +1,7 @@
 # Hey 👋, I'm Mustafa Safdar
 
 🎓 University of Central Punjab  
-💻 MERN Stack Developer | Data Analytics  
+💻 MERN Stack Developer | Data Analyst  
 
 
 ---
