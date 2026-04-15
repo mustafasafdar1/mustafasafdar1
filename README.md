@@ -29,7 +29,7 @@
 
 - LinkedIn: https://www.linkedin.com/musatafasafdar
 - Instagram: https://www.instagram.com/itxmustafa34
-- Facebook: https://www.facebook.com/YOUR_FACEBOOK/
+- Facebook: https://www.facebook.com/mustafasafdar
 - Email: mustafasafdar87@gmail.com
 - LeetCode: https://leetcode.com/u/ECtweZOHul/
 
